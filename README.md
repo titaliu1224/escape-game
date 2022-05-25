@@ -1,0 +1,3 @@
+# escape-game
+用[ink](https://github.com/inkle/ink)寫的簡單密室逃脫
+透過點擊選項來順利逃出吧！
